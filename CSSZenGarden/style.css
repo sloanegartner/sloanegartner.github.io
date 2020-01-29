@@ -1,0 +1,159 @@
+/* basic elements */
+html {
+	margin: 0;
+	padding: 0;
+	}
+
+
+body {
+	background-image: url(zengarden.jpg) no-repeat;
+	background-color: #9370DB;
+	font: 150% oswald;
+	line-height: 1.5;
+	color: #006400; 
+	margin: 15px; 
+	}
+
+
+p { 
+    background-attachment: fixed;
+    background-position: left;
+	font-family: oswald;
+	text-align: left;
+	margin: 25px 75px 50px 100px;
+	}
+
+
+h1 {
+	background-color: #9370DB repeat;
+    font-size: 450%;
+    font-family: bold oswald;
+    color: #3CB371;
+    text-align: left;
+    float:center;
+    text-shadow: 4px 4px 5px black;
+    -webkit-text-stroke-width: 2.5px;
+    -webkit-text-stroke-color: #6B8E23;
+    text-decoration: underline;
+    text-decoration-color: #2E8B57;
+    margin: 250px;
+    margin-top: .05px;
+	}
+
+
+h2 {
+    font: bold italic 1.1em/2.0 bold oswald;
+    margin: 10px;
+    text-align: center;
+    float: left;
+    font-size: 95%;	
+	}
+
+
+h3 { 
+	font: italic bold 2.5em oswald;
+	letter-spacing: 5px; 
+	text-shadow: 1px 1px 3px black;
+	margin: 35px;
+	color: #3CB371;
+	}
+
+
+a:link { 
+	text-decoration: none; 
+	color: #988F5E;
+	}
+
+
+a:visited {  
+	text-decoration: none; 
+	color: #988F5E;
+	}
+
+
+a:hover, a:focus, a:active { 
+	text-decoration: underline; 
+	color: #988F5E;
+	}
+
+
+/* Extra Elements */
+
+body {
+	background: transparent url(Border22.png) no-repeat top right;
+	background-attachment: fixed;
+	background-color: #E6E6FA;
+	}
+
+
+.summary {
+	clear: both; 
+	margin: 70px 70px 70px 70px; 
+	width: 160px; 
+	float: left;
+	}
+
+
+.summary p {
+	font: italic 1.1em/2.0 oswald; 
+	text-align: center;
+	margin: 10px;
+	}
+
+
+body{
+  border-top-color: #D8BFD8;
+  border-top-style: solid;
+  border-top-width: 150px;
+	}	
+
+
+footer { 
+	text-align: center; 
+	margin: 20px;
+	}
+
+
+.clear {
+	clear: left;
+	}
+
+
+.sidebar {
+	float: center;
+	text-align: center;
+	}
+
+
+.sidebar {
+	line-height: 1.3em;
+	list-style-position: inside; 
+	}
+
+
+.extra1 {
+	background: transparent url(yangshuo-zen-garden-resort.png) top left no-repeat; 
+	position: absolute; 
+	top: 40px; 
+	left: 0; 
+	width: 250px; 
+	height: 250px;
+	}
+
+
+.extral {
+	background-image: url(gradientpink.png);
+	position: relative;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
